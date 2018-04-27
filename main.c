@@ -1,10 +1,6 @@
 /* ----------------------------------------------
  * Basic Calculator with + - / % *
  *
- * class: CS 141, Spring 2016. Tue 9am lab.
- * System: Windows 10, DevC++
- * Author: Bushra Baqui
- *
  * To Do: Create a trinity game
  * ----------------------------------------------
  */
@@ -307,7 +303,7 @@ int main()
 	    }
     }
 
-printf ("\n\n"); //new lines
-return 0;       //describes the exit status of the program
+	printf ("\n\n"); //new lines
+	return 0;       //describes the exit status of the program
 }
 
